@@ -1,3 +1,5 @@
+# TODO: добавтье автоматические драйвера на wi-fi и уберите возможность двигать корневую папку
+
 # SPDX-License-Identifier: GPL-2.0
 VERSION = 6
 PATCHLEVEL = 5
